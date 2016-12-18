@@ -1,3 +1,10 @@
+### Decription
+This program is a small and easy made Windows Form Application (written in C++) representing a TodoList.
+In this version you are able to create and delete categories, add and delete todos of a certain category.
+Feel free to give feedback or send me a message on <a href="https://twitter.com/DahlitzF">Twitter</a>.
+
+version: 1.0
+
 ### Developer
 The current developer and owner is: Florian Dahlitz
 
