@@ -5,7 +5,7 @@ The current developer and owner is: Florian Dahlitz
 Free use for everybody.
 
 ### Note
-1. You have to change the 'String^ fullPath' variable in MyForm.h line 64
+1. You have to change the '''String^ fullPath''' variable in MyForm.h line 64
 2. Compile and have fun
 
 ### Currently not available
