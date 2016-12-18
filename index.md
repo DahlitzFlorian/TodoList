@@ -13,5 +13,7 @@ The current developer and owner is: Florian Dahlitz
 
 ### Screenshots
 <img src="images/img1.JPG" alt="showing some todos">
+
 <img src="images/img2.JPG" alt="showing and adding todos">
+
 <img src="images/img3.JPG" alt="menu">
