@@ -1,5 +1,3 @@
-# TodoList
-
 ### Developer
 
 The current developer and owner is: Florian Dahlitz
