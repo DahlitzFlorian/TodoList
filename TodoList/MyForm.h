@@ -415,16 +415,8 @@ private: System::Void addTodos_Click(System::Object^ sender, System::EventArgs^ 
 		}
 	}
 
-	unsigned int i = 0;
-
 	for (const auto& t : tok)
-	{
-		if (i == 0)
-			sw->Write( "\n" );
-
 		sw->Write(msclr::interop::marshal_as<String^, std::string>(t));
-		++i;
-	}
 
 	sw->Close();
 
